@@ -1,12 +1,12 @@
 # 📊 Simple Sales Tracker 
 
-## 📝 Project Overview
+### 📝 Project Overview
 
 This project is a simple sales tracker built for beginner-level data analysis using Python. It explores a dataset containing product sales, including the date of sale, product name, units sold, unit price, and revenue. The main objective is to extract meaningful insights, analyze monthly trends, and visualize revenue over time.
 
 ---
 
-## 📁 Dataset Description
+### 📁 Dataset Description
 
 The dataset includes the following columns:
 
@@ -18,7 +18,7 @@ The dataset includes the following columns:
 
 ---
 
-## ✅ Tasks Completed
+### ✅ Tasks Completed
 
 - ✅ Converted `Date` column to datetime format
 - ✅ Calculated total revenue
@@ -28,7 +28,7 @@ The dataset includes the following columns:
 
 ---
 
-## 📈 Key Insights
+### 📈 Key Insights
 
 - **Total Revenue**: \$13450
 - **Top-Selling Product**: `Product_Name:` C
@@ -36,21 +36,21 @@ The dataset includes the following columns:
 
 ---
 
-## 📊 Visualization
+### 📊 Visualization
 
-A simple line chart was created using Matplotlib to visualize monthly revenue and identify trends over time.
-A barchart for seeing revenue trends product wise
-A pie chart for revenue distribution in products
+- A simple line chart was created using Matplotlib to visualize monthly revenue and identify trends over time.
+- A barchart for seeing revenue trends product wise
+- A pie chart for revenue distribution in products
 ---
 
-## 🛠 Tools Used
+### 🛠 Tools Used
 
 - Python (Pandas, Matplotlib)
 - 
 
 ---
 
-## 📚 Learning Outcome
+### 📚 Learning Outcome
 
 This beginner project helped me:
 - Handle date-time data in Pandas
